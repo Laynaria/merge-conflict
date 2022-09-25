@@ -1,4 +1,4 @@
-# merge-conflict
+# merge-conflict - REMOTE
 
 Voici quelques lignes, pas forcément très intéressantes.
 Mais elles sont demandées pour l'exercice!
